@@ -23,8 +23,6 @@ const worker: ExportedHandler<Environment> = {
       return new Response("You need to send json data.", {status: 400});
     }) as PipelineHook;
 
-    console.log(data.object_attributes.status)
-
     if(data.object_attributes.status !== "failed") return new Response("Yey! Pipeline did not fail! Nothing to do.");
 
     const entry: string | null = await env.CONFIG.get(data.project.web_url) as string;
