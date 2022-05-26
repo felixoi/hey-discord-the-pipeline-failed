@@ -1,0 +1,2 @@
+DISCORD_WEBHOOK=https://discord.com/api/webhooks/xxxx/xxxx
+GITLAB_WEBHOOK_SECRET_TOKEN=xxxx

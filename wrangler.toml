@@ -1,0 +1,12 @@
+name = "hdpf"
+account_id = ""
+zone_id = ""
+
+route = "inputyourroutehere.de"
+workers_dev = false
+
+compatibility_date = "2022-05-26"
+
+kv_namespaces = [
+    { binding = "CONFIG", id = "<Add it here>" }
+]

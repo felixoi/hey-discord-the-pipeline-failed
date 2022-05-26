@@ -1,0 +1,4 @@
+# Logs
+.idea/
+node_modules/
+.dev.vars
