@@ -27,5 +27,5 @@ value: `{"branch_name": "notification text", ...}`
 
 for example:
 
-key: `https://gitlab.com/finanzfluss-group/master-build-notifications`   
+key: `https://gitlab.com/example-group/example-project`   
 value: `{"main": "<@&979396042485276733> Die Pipeline der Webseite für den main-Branch ist fehlgeschlagen!", ...}`
