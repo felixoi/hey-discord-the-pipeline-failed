@@ -1,7 +1,6 @@
 # Hey Discord, the pipeline failed!
 
-This is actually a lie as this is worker only sends notifications
-for failed pipelines.
+Cloudflare Worker which can be used as a middleware between Gitlab webhooks and Discord webhooks to send out custom discord messages when your projects pipeline failed.
 
 ## Setup
 
