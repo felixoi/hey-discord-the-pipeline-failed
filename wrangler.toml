@@ -1,8 +1,8 @@
-name = "hdpf"
+name = "hey-discord-the-pipeline-failed"
 account_id = ""
 zone_id = ""
 
-route = "inputyourroutehere.de"
+route = "gitlab-notifications.fxoi.io"
 workers_dev = false
 
 compatibility_date = "2022-05-26"

@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "hdpf",
+  "name": "hey-discord-the-pipeline-failed",
   "version": "0.0.1",
   "scripts": {
     "deploy": "wrangler publish src/index.ts",
